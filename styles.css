@@ -1,0 +1,9 @@
+.blue-text {
+    color:blue;
+}
+
+.thin-blue-border {
+    border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+  }
