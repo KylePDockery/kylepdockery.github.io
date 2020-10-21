@@ -1,10 +1,10 @@
 body{
-  color: hsla(50, 33%, 25%, .75);
+  background-color: rgb(135, 134, 132);
 
 }
 
-.blue-text {
-    color: #1e90ff;
+.cyan-text {
+    color: rgb(33, 209, 194);
 }
 
 .thin-blue-border {
@@ -14,12 +14,17 @@ body{
   }
 
   .gray-background{
-    background: hsla(50, 33%, 25%, .75);
+    background-color:rgb(71, 70, 69);
   }
   .title-name{
     margin: 1.5em;
     padding: 1.5em;
+    font-weight: bold;
+    text-align: center;
   }
+.fcc-profile{
+  display: inline-block;
+}
 
   [type='form']{
     margin: 10px 0px 15px 10px;
